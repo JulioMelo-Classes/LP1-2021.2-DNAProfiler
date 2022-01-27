@@ -1,12 +1,12 @@
 # Programming Assignment: DNA Profiler
 
 ### Table of Contents
-1. [Introdução](#1-Introdução)
+1. [Introdução](#1-introdução)
 2. [Background](#2-background)
-3. [Input](#3-Entrada)
+3. [Eentrada](#3-entrada)
 4. [Interface](#4-interface)
-5. [Execução](#5-Execução)
-6. [Modelagem do Problema](#6-Modelagem-do-Problema)
+5. [Execução](#5-execução)
+6. [Modelagem do Problema](#6-modelagem-do-problema)
 7. [Saída](#7-saída)
 
 #  1. Introdução
