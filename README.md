@@ -1,4 +1,4 @@
-# Programming Assignment: DNA Profiler
+# DNA Profiler
 
 ### Table of Contents
 1. [Introdução](#1-introdução)
